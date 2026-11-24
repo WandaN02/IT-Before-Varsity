@@ -123,6 +123,7 @@ Features described in this README represent planned functionality and are not ye
 ## Developer
 
 **Developed by:** Njabulo Wanda
+
 Diploma in Information Technology (Software Development)
 
 
